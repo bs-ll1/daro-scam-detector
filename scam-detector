@@ -1,5 +1,0 @@
-mkdir scam-detector
-cd scam-detector
-python -m venv venv
-source venv/bin/activate   # ويندوز: venv\Scripts\activate
-pip install fastapi uvicorn rapidfuzzd
