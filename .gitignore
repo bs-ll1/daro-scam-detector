@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+daro.db
+refs/
+feed.txt
+top-1m.csv
+.env
+*.log
+venv/
+benchmark_data.csv

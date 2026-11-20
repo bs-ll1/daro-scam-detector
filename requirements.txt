@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+rapidfuzz
+streamlit
+requests
+pandas
+pillow
+playwright
+anthropic
